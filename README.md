@@ -34,4 +34,5 @@ sistemas de terceros.
 ## Estado del contenido
 
 - [x] Temario (guion) definido
-- [ ] Bloques desarrollados
+- [x] Bloques desarrollados
+- ✅ **Contenido completo.** A estudiar: marca tu progreso en el TEMARIO.
